@@ -1,5 +1,3 @@
-https://www.linkedin.com/pulse/web-infrastructure-design-fiona-githaiga-/?published=t
-
 What happens when you type https://www.google.com in your browser and press enter?
 
 As a software engineer, it’s important to understand how the web stack works on top of the internet. In this blog post, we’ll walk through the entire process that takes place when you type https://www.google.com in your browser and press Enter. We’ll cover DNS request, TCP/IP, firewall, HTTPS/SSL, load-balancer, web server, application server, and database.
